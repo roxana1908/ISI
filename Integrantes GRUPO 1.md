@@ -1,7 +1,0 @@
-﻿# GRUPO 1
-PAGINA WEB PARA TIENDA DE ARTESANIAS ISI
- 
-INTEGRANTES
-- Roxana Vargas
-- Rebeca Salinas
-- Corina Colque
